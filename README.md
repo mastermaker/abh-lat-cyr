@@ -4,7 +4,7 @@
 <BR> A a (А а) = a / aː / ʔa / ʕ (aa)
 <BR> E e (Е е) = ɛ / ja / e̞ / jo
 <BR> I i (И и) = i / j/ jә / әj
-<BR> 3 O o (О о) = wa / o / ɔ
+<BR> O o (О о) = wa / o / ɔ
 <BR> U u (У у) = u / w / wә / әw
 <BR> Y y (Ы ы) = ɨ / ә
 <BR> Consonants:
@@ -51,7 +51,7 @@
 <BR> S s (С с) = s / ś
 <BR> T t (Т т) = tʼ
 <BR> Tw tw (Тә тә) = tʷʼ
-<BR>* Ŧ ŧ (Ҭ ҭ) = tʰ
+<BR> Ŧ ŧ (Ҭ ҭ) = tʰ
 <BR> Ŧw ŧw (Ҭә ҭә) = tʰʷ
 <BR> F f (Ф ф) = f
 <BR> Ḟ ḟ = f` / fˀ [Abzhywa]
@@ -72,6 +72,8 @@
 <BR> Čĭ čĭ (Ҷ ҷ) = t͡ʃʼ
 <BR> C̈ c̈ (Ҽ ҽ) = ʈ͡ʂʰ
 <BR> C̈ĭ c̈ĭ (Ҿ ҿ) = ʈ͡ʂʼ
+<BR>  = tśs˞ʰ [Old Abkhaz]
+<BR>  = tʃʷˀ [Old Abkhaz]
 <BR> Š š (Ш ш) = ʂ
 <BR> Šĭ šĭ (Шь шь) =ʃ
 <BR> Šw šw (Шә шә) = ʃʷ
@@ -83,6 +85,5 @@
 <BR> Jw jw (Џә џә) = d͡ʒʷ
 <BR> (Ҙ ҙ) = ʑ [Bzyp]
 <BR> (Ҙә ҙә) = ʑʷ [Bzyp] [Sadz]
-<BR> Other: tśs˞ʰ ʈʂʰ / ɖʐ dz˞ / ts˞ˀ ʈʂˀ / tʃʷˀ  / tʃˀ / tɕ tɕˀ / ʑ / kˀ / kʲˀ / kʷˀ. 
 <BR> Some consonants in Abkhaz are pronounced differently than in Abzhywa/Ashua dialect. Like šw [Abzhywa][Ashua] - sw [Abkhaz]; žw [Abzhywa][Ashua] - zw [Abkhaz].
-<BR> Text: Darbanzaalak auaÿy dšoup ihy daǩwiŧny. Auaa zegĭy zinlei p̃atulei eiqaroup. Urť irymoup ahšyÿi alamysi, dara daragĭ aešĭei reipš eizyqazaroup. 
+<BR> Text: Apsny šĭaǩwgyloup araionǩwei aǩalaǩĭǩwei zçazkua aŧouryhŧw dgĭylǩwa Saʒny, Bzypyn, Gwma, Dal-Çabal, Abžĭyua, Samyrzaqan ryla. Apsny iaku, lakĭysra zǩwym, zycwygara qamlo twyloup.
